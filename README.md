@@ -2,7 +2,7 @@
 Wordle Game
 
 ## Description
-It's a Wordle Game. It is made on Python using Object oriented programming.
+print("It's a Wordle Game. It is made on Python using Object oriented programming.")
 
 
 ## Technologies used
