@@ -1,12 +1,9 @@
 # Project Title
+Wordle Game
 
 ## Description
 < describe the project >
 
-## ScreenShots
-()[]
-
-## Links(Optional)
 
 ## Technologies used
 < list languages used and other sources >
