@@ -1,15 +1,20 @@
-# Wordle Game
+# Project Title
 
 ## Description
-Project of a guessing game using Python.
+< describe the project >
 
-## Screenshots
+## ScreenShots
 ()[]
 
 ## Links(Optional)
 
 ## Technologies used
-- Python
+< list languages used and other sources >
 
 ## Credits
-- [GDSC']
+- [GDSC's Repo](https://github.com/USFGDSC/Py-wordle)
+
+
+<p align=center>
+Created with ❤️ in DevShops
+</p>
