@@ -2,11 +2,11 @@
 Wordle Game
 
 ## Description
-< describe the project >
+It's a Wordle Game. It is made on Python using Object oriented programming.
 
 
 ## Technologies used
-< list languages used and other sources >
+- Python
 
 ## Credits
 - [GDSC's Repo](https://github.com/USFGDSC/Py-wordle)
